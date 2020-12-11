@@ -1,4 +1,4 @@
-# four_in_a_row
+# Connect4
 Connect 4 is a two-player game  We used python 3 to code the game The game is between you and the ai We should arrange 4 discs of same color in a row either vertically, horizontally or diagonally in order to win the game. Strategy: we have assigned a scoring mechanism according to the moves the players make.
 
 If the players strategy is good, he gets good scores and there are penalty points too. 
