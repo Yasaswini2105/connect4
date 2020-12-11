@@ -17,3 +17,5 @@ It provides optimal moves for the player assuming that the opponent is also play
 Considering two opponents: max and min playing. We have also used alpha-beta pruning. Alpha–beta pruning is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree. It is an adversarial search algorithm used commonly for machine playing of two-player games. 
 
 A good scoring mechanism and minimax algorithm makes AI to make the best strategic decision to win the game.
+
+https://youtu.be/czryuQumBqw
